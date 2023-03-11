@@ -6,7 +6,7 @@
    </head>
    <body>
    <form method='POST'>
-   <h2>Please input your name here friend:</h2>
+   <h2>Please input your name here :</h2>
  <input type="text" name="name">
  <input type="submit" value="Submit Name">
  </form>
